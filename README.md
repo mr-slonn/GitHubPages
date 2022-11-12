@@ -8,6 +8,7 @@
     Hello World GitHub Pages
 
 Вот Вам котик :) вместо фото :)
+
 ![enter image description here](https://wdorogu.ru/images/wp-content/uploads/2020/04/s1200-19-7.jpg)
 
 ## Этапы обучения
